@@ -54,8 +54,11 @@ It is **off by default** while it earns trust. Doodling works the same at either
 
 | Mod | Why |
 |---|---|
-| [Antique Atlas 8](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) | The book all of this draws on (modid `antiqueatlas`, the native NeoForge port) |
-| UnionLib | Required by Antique Atlas 8 itself |
+| An Antique Atlas, pick one | The book all of this draws on |
+| [Antique Atlas Neoforge](https://www.curseforge.com/minecraft/mc-mods/antique-atlas-neoforge) (Antique Atlas 4, modid `antique_atlas`) | Supported from 1.1.0, NeoForge 1.21.1. Needs Surveyor Neoforge |
+| [Antique Atlas 8](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) (modid `antiqueatlas`) | NeoForge 1.21.1 or Forge 1.20.1. Needs UnionLib |
+
+![Here Be Doodles on the Antique Atlas 4 book](images/aa4-book.png)
 
 Client only: install it on your own game. Servers need nothing.
 
